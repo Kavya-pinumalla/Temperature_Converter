@@ -1,0 +1,1 @@
+This repository contains the source code for a simple temperature converter. The application allows users to convert temperatures between Celsius, Fahrenheit, and Kelvin. It is a straightforward and user-friendly tool built for educational purposes or as a utility for anyone needing quick temperature conversions.
